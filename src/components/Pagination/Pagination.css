@@ -1,0 +1,12 @@
+.ant-pagination.css-dev-only-do-not-override-nllxry {
+    margin-top: 50px;
+}
+
+.ant-pagination.css-dev-only-do-not-override-nllxry li a,
+svg {
+    color: var(--body-text);
+}
+
+:where(.css-dev-only-do-not-override-nllxry).ant-pagination .ant-pagination-item-active {
+    background-color: var(--header-bgc);
+}
